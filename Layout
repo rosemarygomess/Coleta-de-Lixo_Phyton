@@ -1,0 +1,11 @@
+GridLayout:
+    cols: 1
+    Label:
+        id: Linha1
+        text: "1º Segunda-feira"
+    Label:
+        id: linha 2
+        text: "2º quarta-feira"
+    Label:
+        id: linha 3
+        text: "3º sexta-feira"
